@@ -4,7 +4,7 @@ import java.net.DatagramSocket;
 import java.net.InetAddress;
  
 /**
- *
+ *nihao
  */
 public class FQSend {
  
